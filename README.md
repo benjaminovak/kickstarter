@@ -1,1 +1,3 @@
 # kickstarter
+
+Koda diplomske naloge
